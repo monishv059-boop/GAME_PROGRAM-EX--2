@@ -1,5 +1,8 @@
 # GAME_PROGRAM-EX--2
-# Create a player movement using character, collectable, player health and score 
+
+# EX 2 : Create a player movement using character, collectable, player health and score 
+# NAME : DEEPAK B
+# REGISTER NUMBER : 212225230043
 # Aim
 
 Create a playable third-person character in Unreal Engine that can move and run, collect coin-like collectibles, track a Score and Player Health, and display both on-screen (UI). 
@@ -86,11 +89,17 @@ Create a playable third-person character in Unreal Engine that can move and run,
 
   * Call `OnDeath` (Disable Input; show Game Over)
 * Update HUD: Call `UpdateHealthDisplay`
-# Output:
-<img width="516" height="215" alt="Screenshot 2025-11-13 132833" src="https://github.com/user-attachments/assets/18cea467-7cfa-486a-9383-af7393d665ac" />
-<img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/dfbcdcee-830a-4fce-a8c9-9f3b3c44bcd0" />
-<img width="1920" height="1200" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/bc79e6c7-58ed-4bb6-9a15-6547fd4babcf" />
-<img width="1182" height="572" alt="Screenshot 2025-11-13 134127" src="https://github.com/user-attachments/assets/8eb0b872-8f46-4c87-bb16-f130fe48f3d3" />
-# RESULT
-The AI character successfully roams within the defined NavMesh area, choosing random destinations at intervals using the Behavior Tree logic.
 
+# OUTPUT:
+
+<img width="1910" height="1079" alt="image" src="https://github.com/user-attachments/assets/4caffdfb-b335-46a1-ad89-cf69100f12f6" />
+
+<img width="654" height="253" alt="image" src="https://github.com/user-attachments/assets/5c6e1763-c1e3-41a2-b82a-ec401c9a95ba" />
+
+<img width="1439" height="569" alt="image" src="https://github.com/user-attachments/assets/d07b7301-8655-4689-a5a8-1c1a2e7fcc00" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7b4c9b3a-f62c-436c-a256-4e2b79f18011" />
+
+# RESULT :
+
+The AI character successfully roams within the defined NavMesh area, choosing random destinations at intervals using the Behavior Tree logic.
